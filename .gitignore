@@ -1,0 +1,8 @@
+# build output
+mmu
+
+# big trace from the course (11 MB) and an earlier draft; kept locally
+bzip.trace
+mmu1.c
+
+.DS_Store
